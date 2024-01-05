@@ -1,0 +1,3 @@
+# MNIST-single-layer-perceptron
+
+A simple neural network implementation for handwritten digit classification using the MNIST dataset. This Python repository features a single-layer perceptron with ReLU activation, Softmax output, and cross-entropy loss. Notably, the implementation is entirely self-contained, intentionally avoiding external libraries. Dive into the basics of neural networks, implemented from scratch for hands-on learning without dependencies.
